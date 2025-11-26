@@ -1,0 +1,7 @@
+{
+  "name": "Simulador del Futuro Inmobiliario",
+  "description": "Herramienta para compradores y vendedores para visualizar su vida en 12 meses según sus decisiones inmobiliarias.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
